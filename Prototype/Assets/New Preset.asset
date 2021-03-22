@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db07302a52ae0d84f8f0c1bf5a629241, type: 3}
+  m_Name: New Preset
+  m_EditorClassIdentifier: 
+  displayPath: My Presets/New
+  isRelative: 0
+  phonemeShapes:
+  - phonemeName: AI
+    phoneme: 0
+    blendables:
+    - blendableNumber: 0
+      blendableName: Key 1 (0)
+      weight: 100
+    bones: []
+  - phonemeName: E
+    phoneme: 0
+    blendables:
+    - blendableNumber: 0
+      blendableName: Key 1 (0)
+      weight: 37.7
+    bones: []
+  - phonemeName: U
+    phoneme: 0
+    blendables: []
+    bones: []
+  - phonemeName: O
+    phoneme: 0
+    blendables: []
+    bones: []
+  - phonemeName: CDGKNRSThYZ
+    phoneme: 0
+    blendables: []
+    bones: []
+  - phonemeName: FV
+    phoneme: 0
+    blendables: []
+    bones: []
+  - phonemeName: L
+    phoneme: 0
+    blendables: []
+    bones: []
+  - phonemeName: MBP
+    phoneme: 0
+    blendables: []
+    bones: []
+  - phonemeName: WQ
+    phoneme: 0
+    blendables: []
+    bones: []
+  - phonemeName: Rest
+    phoneme: 0
+    blendables: []
+    bones: []
+  emotionShapes:
+  - emotion: Happy
+    blendables: []
+    bones: []
+  - emotion: Serious
+    blendables: []
+    bones: []
+  - emotion: Eyebrows Up
+    blendables: []
+    bones: []
+  - emotion: Sad
+    blendables: []
+    bones: []
