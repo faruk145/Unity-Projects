@@ -1,5 +1,5 @@
 These projects were developed with a team called "buSIMes", which is currently working on multiplayer hypercasual games and more advanced VR simulations.
-9 people in total made an superb effort.Credits:
+9 people in total made a superb effort.Credits:
 
 1-Ahmet Atar-Project General Manager
 
