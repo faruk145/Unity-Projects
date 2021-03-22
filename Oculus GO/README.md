@@ -1,2 +1,1 @@
-# Unity-Projects
-Testing
+This project was done for Oculus Go device.All the basic VR functions involving grabbing, head rotation, movement, interaction, and teleportation are applied and tested successfully.This is supposed to form the basis of the prototype.Unity 2019.4.12 version was used.The project was only built for Android.
